@@ -1,2 +1,3 @@
 line1 added by john
 line 2 by peter
+line 3 by john
